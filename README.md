@@ -1,5 +1,7 @@
 # Bifurcation and Feigenbaum's Work: A Visualization
 
+![Bifurcation](Bifurcation.png)
+
 ## Introduction
 
 This project explores **bifurcation** in nonlinear dynamical systems, focusing on the famous **logistic map** and its transition from stability to chaos. The bifurcation diagram visualized here demonstrates the **period-doubling route to chaos**, a phenomenon extensively studied by **Mitchell Feigenbaum** in the 1970s.
