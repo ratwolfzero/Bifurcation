@@ -8,9 +8,11 @@ This project explores **bifurcation** in nonlinear dynamical systems, focusing o
 
 Bifurcation refers to a system's sudden qualitative change in behavior when a parameter is varied. The **logistic map**, given by:
 
-¢¢
-\(x_{n+1} = r x_n (1 - x_n)\)
-¢¢
+$$
+\large
+x_{n+1} = r x_n (1 - x_n)
+\large
+$$
 
 models population growth with resource constraints. As the control parameter \(r\) increases, the system exhibits:
 
